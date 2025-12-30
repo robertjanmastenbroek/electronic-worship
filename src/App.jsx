@@ -11,7 +11,7 @@ import { Play, Pause, Calendar, ArrowRight, Menu, X, Instagram, Youtube, Music, 
 const IMAGES = {
   // TODO: Drag your photo into the 'public' folder in VS Code.
   // Then change this line to match the filename (e.g. "/my-photo.jpg")
-  founder: "Robert_Jan_Mastenbroek.png" 
+  founder: "/Robert_Jan_Mastenbroek.png" 
 };
 
 // INSTRUCTIONS: 
